@@ -26,13 +26,37 @@ across pharmaverse and the R Consortium
 
 ---
 
-# Resource 1 {background-color="#003087"}
+## Today's Agenda {.smaller}
 
-## The pharmaverse Organisation
+We'll explore the key **pharmaverse** resources that can help streamline clinical reporting at AstraZeneca.
 
+:::: {.columns}
+
+::: {.column width="55%"}
+### Resources We'll Cover
+
+| # | Resource | What it is |
+|---|----------|------------|
+| 1️⃣ | **pharmaverse.org** | Central hub for curated R packages |
+| 2️⃣ | **pharmaverse Examples** | End-to-end worked clinical examples |
+| 3️⃣ | **pharmaverse Blog** | Community-driven knowledge sharing |
+| 4️⃣ | **admiral** | ADaM dataset construction toolkit |
+| 5️⃣ | **pharmaverse Data Packages** | Test SDTM & ADaM datasets |
+:::
+
+::: {.column width="45%"}
+::: {.callout-tip}
+## 🗺️ Live Tour at the End!
+After walking through each resource, we'll go on a **live tour** of all of them — so this is just to set the stage for what's coming!
+:::
+:::
+
+::::
 ---
 
-## What is the pharmaverse? {.smaller}
+## The pharmaverse Organisation {.smaller}
+
+### Resource 1
 
 :::: {.columns}
 
@@ -90,12 +114,9 @@ The **pharmaverse** is a **council of companies** working together to promote an
 
 ---
 
-# Resource 2 {background-color="#003087"}
-## pharmaverse Examples
+## pharmaverse Examples {.smaller}
 
----
-
-## What are the pharmaverse Examples? {.smaller}
+### Resource 2
 
 :::: {.columns}
 
@@ -154,12 +175,9 @@ Open the Posit Cloud environment and run an example without installing anything!
 
 ---
 
-# Resource 3 {background-color="#003087"}
-## pharmaverse Blog
+## pharmaverse Blog {.smaller}
 
----
-
-## What is the pharmaverse Blog? {.smaller}
+### Resource 3
 
 :::: {.columns}
 
@@ -224,12 +242,9 @@ Have something to share? Open a GitHub issue or PR to the blog repository — th
 
 ---
 
-# Resource 4 {background-color="#003087"}
-## admiral — ADaM in R Asset Library
+## admiral — ADaM in R Asset Library {.smaller}
 
----
-
-## What is admiral? {.smaller}
+### Resource 4
 
 :::: {.columns}
 
@@ -291,12 +306,9 @@ admiral (core)
 
 ---
 
-# Resource 5 {background-color="#003087"}
-## pharmaverse Data Packages
+## pharmaverse Data Packages {.smaller}
 
----
-
-## pharmaversesdtm — SDTM Test Data {.smaller}
+### Resource 5
 
 :::: {.columns}
 
