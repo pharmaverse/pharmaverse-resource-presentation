@@ -1,0 +1,120 @@
+/*-- scss:defaults --*/
+
+// AstraZeneca / Pharmaverse brand colours
+$az-blue:        #003087;
+$az-light-blue:  #68b3e0;
+$pharmaverse:    #1a6b9f;
+$light-bg:       #f0f6fb;
+$dark-text:      #1a1a2e;
+$accent:         #e8753a;
+
+$body-bg:        #ffffff;
+$body-color:     $dark-text;
+$link-color:     $pharmaverse;
+$presentation-heading-color: $az-blue;
+
+$font-family-sans-serif: "Segoe UI", Arial, sans-serif;
+
+/*-- scss:rules --*/
+
+// Title slide
+.reveal .slide-background-content {
+  background-size: cover;
+}
+
+#title-slide {
+  background-color: $az-blue;
+
+  .title {
+    font-size: 2.2em;
+    font-weight: 700;
+    color: #ffffff;
+    text-shadow: 1px 1px 4px rgba(0,0,0,0.4);
+  }
+
+  .subtitle {
+    color: $az-light-blue;
+    font-size: 1.2em;
+  }
+
+  .author, .date {
+    color: #d0e8f5;
+  }
+}
+
+// Section slides
+.reveal h2 {
+  color: $az-blue;
+  border-bottom: 3px solid $az-light-blue;
+  padding-bottom: 0.2em;
+}
+
+.reveal h3 {
+  color: $pharmaverse;
+}
+
+// Highlighted callout boxes
+.callout-tip {
+  border-left-color: $pharmaverse !important;
+}
+
+// Resource logos - uniform sizing
+.hex-logo {
+  width: 140px;
+  height: auto;
+  margin: 0.5em;
+  filter: drop-shadow(2px 2px 6px rgba(0,0,0,0.2));
+}
+
+.hex-logo-sm {
+  width: 90px;
+  height: auto;
+  margin: 0.3em;
+  filter: drop-shadow(1px 1px 4px rgba(0,0,0,0.15));
+}
+
+// Two-column layout helper
+.cols2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2em;
+  align-items: start;
+}
+
+// Feature badge list
+.feature-list li {
+  margin-bottom: 0.5em;
+  padding-left: 0.5em;
+}
+
+// Tour / highlight slide
+.tour-slide {
+  background-color: $light-bg;
+}
+
+// Compilation slide
+.compilation-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5em;
+  margin-top: 1em;
+}
+
+// Footer override for dark title
+.reveal .footer {
+  color: #ccc;
+}
+
+// Bio slide placeholder style
+.bio-placeholder {
+  border: 2px dashed $az-light-blue;
+  border-radius: 12px;
+  padding: 2em 3em;
+  color: #888;
+  font-style: italic;
+  text-align: center;
+  margin: 1em auto;
+  max-width: 70%;
+}

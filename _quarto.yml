@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Welcome to the pharmaverse!"
+
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    chalkboard: false
+    preview-links: auto
+    logo: assets/img/pharmaverse_logo.png
+    footer: "pharmaverse | AstraZeneca Presentation"
+    transition: slide
+    background-transition: fade
+    highlight-style: github
