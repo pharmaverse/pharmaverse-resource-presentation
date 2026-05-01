@@ -1,18 +1,22 @@
 ---
-title: "Welcome to the pharmaverse!"
-subtitle: "An Introduction for AstraZeneca"
+title: ""
+subtitle: ""
 format:
   revealjs:
     theme: [default, custom.scss]
     slide-number: true
     preview-links: auto
     logo: assets/img/pharmaverse_logo.png
-    footer: "pharmaverse | AstraZeneca Presentation"
+    footer: "pharmaverse | Navitas Presentation"
     transition: slide
     background-transition: fade
     highlight-style: github
     width: 1280
     height: 720
+title-slide-attributes:
+  data-background-image: assets/img/navitas_webinar_header.png
+  data-background-size: contain
+  data-background-color: white
 ---
 
 ## About the Speaker {.tour-slide}
@@ -28,7 +32,7 @@ across pharmaverse and the R Consortium
 
 ## Today's Agenda {.smaller}
 
-We'll explore the key **pharmaverse** resources that can help streamline clinical reporting at AstraZeneca.
+We'll explore the key **pharmaverse** resources that can help streamline clinical reporting at Navitas.
 
 :::: {.columns}
 
