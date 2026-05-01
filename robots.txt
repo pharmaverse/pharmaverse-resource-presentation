@@ -1,1 +1,1 @@
-Sitemap: https://pharmaverse.github.io/az-pharmaverse-presentation/sitemap.xml
+Sitemap: https://pharmaverse.github.io/pharmaverse-resource-presentation/sitemap.xml
