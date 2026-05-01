@@ -1,6 +1,6 @@
 ---
-title: ""
-subtitle: ""
+title: "pharmaverse by Example"
+subtitle: "An Introductory Webinar for Clinical Programmers"
 format:
   revealjs:
     theme: [default, custom.scss]
