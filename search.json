@@ -2,133 +2,133 @@
   {
     "objectID": "index.html#about-the-speaker",
     "href": "index.html#about-the-speaker",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "About the Speaker",
     "text": "About the Speaker\n\nBen Straub\nProgrammer at GSK for 7 years. Working on many different open-source initiatives across pharmaverse and the R Consortium"
   },
   {
     "objectID": "index.html#todays-agenda",
     "href": "index.html#todays-agenda",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "Today’s Agenda",
     "text": "Today’s Agenda\nWe’ll explore the key pharmaverse resources that can help streamline clinical reporting at Navitas.\n\n\nResources We’ll Cover\n\n\n\n#\nResource\nWhat it is\n\n\n\n\n1️⃣\npharmaverse.org\nCentral hub for curated R packages\n\n\n2️⃣\npharmaverse Examples\nEnd-to-end worked clinical examples\n\n\n3️⃣\npharmaverse Blog\nCommunity-driven knowledge sharing\n\n\n4️⃣\nadmiral\nADaM dataset construction toolkit\n\n\n5️⃣\npharmaverse Data Packages\nTest SDTM & ADaM datasets\n\n\n\n\n\n\n\n\n\n\n🗺️ Live Tour at the End!\n\n\nAfter walking through each resource, we’ll go on a live tour of all of them — so this is just to set the stage for what’s coming!"
   },
   {
     "objectID": "index.html#resource-1",
     "href": "index.html#resource-1",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "Resource 1",
     "text": "Resource 1\n\n\n\npharmaverse.org\n\n\nThe Central Hub for Curated R Packages"
   },
   {
     "objectID": "index.html#the-pharmaverse-organisation",
     "href": "index.html#the-pharmaverse-organisation",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "The pharmaverse Organisation",
     "text": "The pharmaverse Organisation\n\n\n\npharmaverse.org\ngithub.com/pharmaverse\n\nThe pharmaverse is a council of companies working together to promote and enable greater industry collaboration on open-source R package development for clinical reporting. Python is also starting to make an appearance!\nWhy it matters\n\nReduces duplicated effort across companies\nProvides slightly-opinionated, curated package recommendations\nCovers the end-to-end clinical reporting pipeline: SDTM → ADaM → TLGs\nFreely available to the entire industry"
   },
   {
     "objectID": "index.html#pharmaverse.org-website-github",
     "href": "index.html#pharmaverse.org-website-github",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "pharmaverse.org website & GitHub",
     "text": "pharmaverse.org website & GitHub\n\n\n🌐 pharmaverse.org\n\nPackage discovery — search by domain or workflow stage\nCouncil membership & governance\nNews, events, and community links\n\nKey workflow coverage\n\n\n\nStage\nDomain\n\n\n\n\nData\nSDTM, ADaM\n\n\nAnalysis\nTLGs, Shiny\n\n\nSubmission\ne-Submission\n\n\n\n\n🐙 github.com/pharmaverse\n\n30+ open-source repositories\nPackages, data sets, examples, blogs\nOpen contribution model — anyone can contribute\nIssue templates, PR workflows, and community guidelines built in\n\n\n“The right tool, for the right job, collaboratively built.”"
   },
   {
     "objectID": "index.html#resource-2",
     "href": "index.html#resource-2",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "Resource 2",
     "text": "Resource 2\n\n\n\npharmaverse Examples\n\n\nEnd-to-End Worked Clinical Examples"
   },
   {
     "objectID": "index.html#pharmaverse-examples",
     "href": "index.html#pharmaverse-examples",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "pharmaverse Examples",
     "text": "pharmaverse Examples\n\n\n\n\n📖 End-to-End Worked Examples\npharmaverse.github.io/examples\nA curated library of fully worked clinical reporting examples that show how pharmaverse packages fit together in a real pipeline.\n\nUses consistent source data from pharmaversesdtm and pharmaverseadam\nCovers ADaM dataset creation, Tables, Listings & Graphs (TLGs)\nIncludes PK/PD and Therapeutic Area–specific analyses"
   },
   {
     "objectID": "index.html#pharmaverse-examples-key-features",
     "href": "index.html#pharmaverse-examples-key-features",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "pharmaverse Examples — Key Features",
     "text": "pharmaverse Examples — Key Features\n\n\n✨ What makes it special\n\nReproducible — self-contained R scripts you can run locally\nPosit Cloud environment pre-configured with all packages\nAuto-generated standalone R scripts for every example\nCommunity-driven: suggest new examples via GitHub issues\n\nScope of examples\n\nADSL, ADAE, ADCM, ADLB, ADVS, ADTTE …\nStandard TLGs (gt, rtables, Tplyr, ggplot2, visR)\nTherapeutic Area analyses (Oncology, Ophthalmology, …)\n\n\n🔗 Links\n\n\n\nResource\nURL\n\n\n\n\nWebsite\ngithub.io/examples\n\n\nGitHub\ngithub/examples\n\n\n\n\n\n\n\n\n\nTry it now\n\n\nOpen the Posit Cloud environment and run an example without installing anything!"
   },
   {
     "objectID": "index.html#resource-3",
     "href": "index.html#resource-3",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "Resource 3",
     "text": "Resource 3\n\n\n\npharmaverse Blog\n\n\nCommunity-Driven Knowledge Sharing"
   },
   {
     "objectID": "index.html#pharmaverse-blog",
     "href": "index.html#pharmaverse-blog",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "pharmaverse Blog",
     "text": "pharmaverse Blog\n\n\n\npharmaverse.github.io/blog\n\n📝 Community-Driven Clinical R Blog\nThe pharmaverse blog promotes and showcases R use in the clinical reporting pipeline through short, personalized, and reproducible posts.\nWhat you’ll find\n\nWalkthroughs of pharmaverse packages and functions\nReal-world R experiences in clinical programming\nConference recaps and community spotlights\nTips, tricks, and patterns for clinical data work\n\nSpirit of every post\n✅ Short (&lt; 10 min read) · ✅ Personalized · ✅ Reproducible · ✅ Introductory"
   },
   {
     "objectID": "index.html#pharmaverse-blog-key-features",
     "href": "index.html#pharmaverse-blog-key-features",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "pharmaverse Blog — Key Features",
     "text": "pharmaverse Blog — Key Features\n\n\n🌟 Why follow the blog?\n\nStay current — regular posts on new packages and releases\nCommunity voices — authors from across pharma companies\nPractical — every post has working, self-contained code\nOpen contribution — anyone can write a post via a GitHub PR\n\nContribution requirements\n\nSpecific to Clinical Reporting and open-source\nWorking, reproducible code\nSelf-contained data (package data or minimal example data)\n\n\n🔗 Links\n\n\n\nResource\nURL\n\n\n\n\nBlog\ngithub.io/blog\n\n\nGitHub\ngithub/blog\n\n\n\n\n\n\n\n\n\nWrite a post!\n\n\nHave something to share? Open a GitHub issue or PR to the blog repository — the blog team will guide you through the process."
   },
   {
     "objectID": "index.html#resource-4",
     "href": "index.html#resource-4",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "Resource 4",
     "text": "Resource 4\n\n\n\nadmiral\n\n\nADaM in R Asset Library"
   },
   {
     "objectID": "index.html#admiral-adam-in-r-asset-library",
     "href": "index.html#admiral-adam-in-r-asset-library",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "admiral — ADaM in R Asset Library",
     "text": "admiral — ADaM in R Asset Library\n\n\n\npharmaverse.github.io/admiral\n\n🚢 The core ADaM-building package\nadmiral is an open-source, modular toolbox for creating ADaM datasets in R, developed jointly by Roche and GSK — and now maintained by the wider pharmaverse community.\nCore design principles\n\n\n\nPrinciple\nMeaning\n\n\n\n\nUsability\nEasy to read and write by clinical programmers\n\n\nSimplicity\nSingle, well-defined purpose per function\n\n\nFindability\nConsistent naming so functions are easy to find\n\n\nReadability\nCode reads like a specification"
   },
   {
     "objectID": "index.html#admiral-key-features",
     "href": "index.html#admiral-key-features",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "admiral — Key Features",
     "text": "admiral — Key Features\n\n\n🛠 What admiral provides\n\n200+ functions for ADaM dataset construction\nCovers ADSL, ADAE, ADCM, ADLB, ADVS, ADTTE, and more\nTwo-phase release cadence (core + TA extensions)\n\nEcosystem of extensions\nadmiral (core)\n├── admiralonco      # Oncology\n├── admiralophtha    # Ophthalmology\n├── admiralvaccine   # Vaccines\n├── admiralpeds      # Pediatrics\n├── admiralmetabolic # Metabolic\n└── admiralneuro     # Neuroscience\n\n📋 Cheatsheet\n\nDownload PDF cheatsheet"
   },
   {
     "objectID": "index.html#resource-5",
     "href": "index.html#resource-5",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "Resource 5",
     "text": "Resource 5\n\n \n\npharmaverse Data Packages\n\n\nTest SDTM & ADaM Datasets"
   },
   {
     "objectID": "index.html#pharmaverse-data-packages",
     "href": "index.html#pharmaverse-data-packages",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "pharmaverse Data Packages",
     "text": "pharmaverse Data Packages\n\n\n\npharmaversesdtm\n\nOne-stop-shop for SDTM test data\nProvides a consistent set of SDTM datasets used across pharmaverse packages and examples.\n\n\n\nDataset type\nExamples\n\n\n\n\nTA-agnostic SDTM\ndm, vs, eg, lb, ex, ae\n\n\nOncology-specific\nrs_onco, tr_onco\n\n\nOphthalmology\noe_ophtha\n\n\n\nKey features\n\nBased on CDISC pilot project data\nModernizing to current standards (slow going!)\nDetailed Documentation for each dataset"
   },
   {
     "objectID": "index.html#pharmaverseadam-adam-test-data",
     "href": "index.html#pharmaverseadam-adam-test-data",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "pharmaverseadam — ADaM Test Data",
     "text": "pharmaverseadam — ADaM Test Data\n\n\n\npharmaverseadam\n\n📦 One-stop-shop for ADaM test data\nProvides ready-to-use ADaM datasets automatically generated by running admiral templates — so they are always in sync with the latest admiral release.\n\n\n\nADaM Dataset\nSource package\n\n\n\n\nadsl\nadmiral\n\n\nadae\nadmiral\n\n\nadrs_onco\nadmiralonco\n\n\n\nKey features\n\nSource data from pharmaversesdtm\nCovers most TA extension packages\nAlways looking to add more!"
   },
   {
     "objectID": "index.html#lets-take-a-tour",
     "href": "index.html#lets-take-a-tour",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "Let’s Take a Tour!",
     "text": "Let’s Take a Tour!\n\n🗺️ We’ll walk through each resource live\n\n\n\nStop\nResource\nURL\n\n\n\n\n1️⃣\npharmaverse.org\npharmaverse.org\n\n\n2️⃣\nGitHub Organisation\ngithub.com/pharmaverse\n\n\n3️⃣\nExamples\npharmaverse.github.io/examples\n\n\n4️⃣\nBlog\npharmaverse.github.io/blog\n\n\n5️⃣\nadmiral\npharmaverse.github.io/admiral\n\n\n6️⃣\npharmaversesdtm\npharmaverse.github.io/pharmaversesdtm\n\n\n7️⃣\npharmaverseadam\npharmaverse.github.io/pharmaverseadam"
   },
   {
     "objectID": "index.html#all-resources-at-a-glance",
     "href": "index.html#all-resources-at-a-glance",
-    "title": "pharmaverse by Example",
+    "title": "Welcome to the pharmaverse!",
     "section": "All Resources at a Glance",
     "text": "All Resources at a Glance\n\n\n\n\npharmaverse\npharmaverse.org\n\n\nExamples\ngithub.io/examples\ngithub/examples\n\n\nBlog\ngithub.io/blog\ngithub/blog\n\n\nadmiral\ngithub.io/admiral\ngithub/admiral\n\n\npharmaversesdtm\ngithub.io/sdtm\n&\n\npharmaverseadam\ngithub.io/adam\n\n\n\n🤝 Get involved — the pharmaverse is open to everyone!"
   }
