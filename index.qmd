@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "pharamverse examples"
 subtitle: ""
 format:
   revealjs:
@@ -13,26 +13,11 @@ format:
     highlight-style: github
     width: 1280
     height: 720
-title-slide-attributes:
-  data-background-image: assets/img/navitas_webinar_header.png
-  data-background-size: contain
-  data-background-color: white
----
-
-## About the Speaker {.tour-slide}
-
-::: bio-placeholder
-**Ben Straub**
-
-Programmer at GSK for 7 years. Working on many different open-source initiatives
-across pharmaverse and the R Consortium
-:::
-
 ---
 
 ## Today's Agenda {.smaller}
 
-We'll explore the key **pharmaverse** resources that can help streamline clinical reporting at Navitas.
+We'll explore the key **pharmaverse** resources that can help streamline clinical reporting.
 
 :::: {.columns}
 
@@ -49,6 +34,13 @@ We'll explore the key **pharmaverse** resources that can help streamline clinica
 :::
 
 ::: {.column width="45%"}
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ::: {.callout-tip}
 ## 🗺️ Live Tour at the End!
 After walking through each resource, we'll go on a **live tour** of all of them — so this is just to set the stage for what's coming!
@@ -104,7 +96,7 @@ The **pharmaverse** is a **council of companies** working together to promote an
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="45%"}
 ### 🌐 pharmaverse.org
 - **Package discovery** — search by domain or workflow stage
 - Council membership & governance
@@ -118,14 +110,13 @@ The **pharmaverse** is a **council of companies** working together to promote an
 | Submission  | e-Submission      |
 :::
 
-::: {.column width="50%"}
+::: {.column width="55%"}
 ### 🐙 github.com/pharmaverse
 - **30+ open-source repositories**
 - Packages, data sets, examples, blogs
 - Open contribution model — anyone can contribute
 - Issue templates, PR workflows, and community guidelines built in
-
-> *"The right tool, for the right job, collaboratively built."*
+- Host here or link to Company Repos, e.g. [tfrmt](https://github.com/GSK-Biostatistics/tfrmt)
 :::
 
 ::::
@@ -164,6 +155,7 @@ End-to-End Worked Clinical Examples
 A **curated library** of fully worked clinical reporting examples that show how pharmaverse packages fit together in a real pipeline.
 
 - Uses **consistent source data** from `pharmaversesdtm` and `pharmaverseadam`
+- Metadata/Spec for all ADaMs (Just for demo purposes!!)
 - Covers ADaM dataset creation, Tables, Listings & Graphs (TLGs)
 - Includes PK/PD and Therapeutic Area–specific analyses
 :::
@@ -189,7 +181,7 @@ Scope of examples
 
 - `ADSL`, `ADAE`, `ADCM`, `ADLB`, `ADVS`, `ADTTE` …
 - Standard TLGs (gt, rtables, Tplyr, ggplot2, visR)
-- Therapeutic Area analyses (Oncology, Ophthalmology, …)
+- Therapeutic Area analyses (Oncology, Ophtha, …)
 :::
 
 ::: {.column width="45%"}
@@ -199,6 +191,10 @@ Scope of examples
 |----------|-----|
 | Website  | [github.io/examples](https://pharmaverse.github.io/examples/) |
 | GitHub   | [github/examples](https://github.com/pharmaverse/examples) |
+
+<br>
+<br>
+<br>
 
 ::: {.callout-tip}
 ## Try it now
@@ -248,7 +244,7 @@ The pharmaverse blog **promotes and showcases R use** in the clinical reporting 
 - Tips, tricks, and patterns for clinical data work
 
 #### Spirit of every post
-✅ Short (< 10 min read) · ✅ Personalized · ✅ Reproducible · ✅ Introductory
+✅ Short ✅ Personalized ✅Reproducible ✅ Introductory
 :::
 
 ::::
@@ -279,6 +275,10 @@ The pharmaverse blog **promotes and showcases R use** in the clinical reporting 
 |----------|-----|
 | Blog     | [github.io/blog](https://pharmaverse.github.io/blog/) |
 | GitHub   | [github/blog](https://github.com/pharmaverse/blog) |
+
+<br>
+<br>
+<br>
 
 ::: {.callout-note}
 ## Write a post!
